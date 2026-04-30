@@ -1,7 +1,7 @@
 # 🟢 LobeOS
 
 <p align="center">
-  <img src="Lobeos.png" alt="LobeOS Logo" width="300">
+  <img src="https://github.com/Oscar-Tejero/LobeOS/blob/main/Lobeos.png?raw=true" alt="LobeOS Logo" width="300">
 </p>
 
 ---
