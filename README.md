@@ -1,8 +1,6 @@
 # 🟢 LobeOS
 
-<p align="center">
-  <img src="https://github.com/Oscar-Tejero/LobeOS/blob/main/Lobeos.png?raw=true" alt="LobeOS Logo" width="300">
-</p>
+![LobeOS Logo](Lobeos.png)
 
 ---
 
