@@ -1,6 +1,6 @@
 # 🟢 LobeOS
 
-![LobeOS Logo](Lobeos.png)
+![LobeOS Logo](./Lobeos.png)
 
 ---
 
