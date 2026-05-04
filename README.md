@@ -1,10 +1,8 @@
-# 🟢 LobeOS
-
-![LobeOS Logo](./media/Lobeos.png)
+# <img src="./media/Lobeos.png" width="45" align="center"> LobeOS
 
 ---
 
-### 🛠️ Instalación
+### 🛠 Instalación
 
 Para instalar **LobeOS** en tu sistema, abre una terminal y ejecuta el siguiente comando:
 
